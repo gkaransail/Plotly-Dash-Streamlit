@@ -1,4 +1,5 @@
-Plotly Dash App
+Plotly Dash 
+
 This repository contains an interactive data visualization web application built with Plotly Dash, a Python framework for building analytical web applications. This app visualizes data and provides interactive features such as dropdowns, sliders, and graphs to explore datasets dynamically.
 
 Features
@@ -10,7 +11,7 @@ Responsive design for different screen sizes
 Prerequisites
 To run this Dash app, ensure that you have the following Python libraries installed:
 
-dash: The framework for building web applications
-pandas: For data manipulation
-plotly: For creating interactive graphs
-numpy: For numerical computations (if required)
+1) dash: The framework for building web applications
+2) pandas: For data manipulation
+3) plotly: For creating interactive graphs
+4) numpy: For numerical computations (if required)
